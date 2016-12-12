@@ -69,3 +69,6 @@ def get_EFC_summary(url_job):
         return ''
     return summary
 
+# utilisation
+d = get_EFC_results("python")
+    
